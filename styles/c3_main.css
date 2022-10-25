@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+img#logo{
+    height: 80px;
+}
+
+.speakerPicture{
+    height: 75px;
+}
